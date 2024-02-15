@@ -102,7 +102,7 @@
     margin-top: 20px;
 }
 
-.mt-5 {
+.mt-52 {
     margin-top: 25px;
 }
 
@@ -183,7 +183,7 @@
 }
 
 .padding-bottom-2 {
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 .bg-c-mint-dark {
@@ -244,6 +244,9 @@
     height: 250px;
     padding: 25px 15px;
 }
+.m0{
+    margin-bottom: 0px;
+}
 
 .logo-2 {
     margin: 0px 102px 16px 101.984px;
@@ -292,7 +295,10 @@
 }
 
 .pd-left {
-    padding-left: 40px;
+    padding-left: 4%;
+}
+.w3{
+    width: 50%;
 }
 
 .ml-2 {
@@ -320,10 +326,10 @@ i{
 .mb--4{
     margin-bottom: 25px;
 }
-@media(max-width:1200px) {
+@media(max-width:1334px) {
     #burger{
         display: inline-block !important;
-        font-size: 200%;
+        /* font-size: 200%; */
         color: red !important;
     }
     .none1{
