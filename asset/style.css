@@ -10,7 +10,16 @@
 #navbar-items {
     gap: 30px;
 }
-
+#but{
+    color: #ff0000;
+}
+.gap10{
+    gap: 5px;
+}
+.margin-auto{
+    margin: 0px auto;
+    width: 96%;
+}
 #navbar {
     padding: 0px 10px;
 }
@@ -18,7 +27,7 @@
     width: 100%;
 }
 .w3{
-    width: 100%;
+    width: 50%;
 }
 .w2{
     width: 32%;

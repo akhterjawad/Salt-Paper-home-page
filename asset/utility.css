@@ -129,7 +129,7 @@
 }
 
 .center {
-    text-align: center;
+    text-align: center !important;
 }
 
 .rounded2 {
